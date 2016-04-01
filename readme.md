@@ -4,7 +4,9 @@ This is a simple learning lib. In this repo I am recreating markdown but with th
 
 Initial idea is something like
 
+```
 ##={.lead} Hi
+```
 
 Would output something like
 
