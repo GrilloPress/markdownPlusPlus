@@ -13,3 +13,11 @@ Would output something like
 ```
 <h2 class="lead">Hi</h2>
 ```
+
+## ideas
+
+Code scans doc, finds ```#``` and then replaces it with the h1 before and creates a /h1 after. 
+
+first iteration. Set up ability to create the header
+
+Second iteration. Locate additional class requirement and transform that
